@@ -26,8 +26,8 @@ Access the calculator feature via the GUI.
 Future Improvements
 Support for saving and loading bills to/from files.
 Integration with a database for storing customer information.
-Presented by
-@farhansyedali
-@muqniturrehman
 Enhanced error handling and input validation.
 More customization options for the GUI layout and themes.
+Presented by:
+@farhansyedali
+@muqniturrehman

@@ -31,3 +31,9 @@ More customization options for the GUI layout and themes.
 Presented by:
 @farhansyedali
 @muqniturrehman
+![image](https://github.com/user-attachments/assets/73acb1a5-4760-4a2f-b389-67cd3f4a77e0)
+![image](https://github.com/user-attachments/assets/2157ddbd-68e3-4428-82eb-e20c3f43348e)
+![image](https://github.com/user-attachments/assets/7b1e68cd-9e46-4d46-9e13-63ee5980f12b)
+
+
+
